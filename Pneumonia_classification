@@ -1,0 +1,3 @@
+# Pneumonia Classification
+
+This project uses a Convolutional Neural Network (CNN) implemented in TensorFlow to classify chest X-ray images as either NORMAL or PNEUMONIA.
